@@ -1,7 +1,7 @@
 # Random-gif-generator!
 This project uses "useState" hook and "useEffect" hook used in React.js to complete its functionality. Also, a loading icon is also used whose CSS file is taken from "css loader generator"
 
-[ss 1](https://github.com/alwaysAnsh/Random-gif-generator/assets/121539688/1d8e4400-e14a-4938-83ad-c737d5bb8e77)
+![ss 1](https://github.com/alwaysAnsh/Random-gif-generator/assets/121539688/1d8e4400-e14a-4938-83ad-c737d5bb8e77)
 
 
 ![ss2](https://github.com/alwaysAnsh/Random-gif-generator/assets/121539688/ec108d98-3de8-4cd2-afd1-af3851369e18)
